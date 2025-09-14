@@ -120,3 +120,12 @@ This project is part of a broader suite of pipelines and models I've built - com
 🔗 LinkedIn: https://www.linkedin.com/in/sriram-murali1105/
 
 🔗 Medium: https://medium.com/@sriram1105.m
+
+
+
+
+# ⚠️ **Disclaimer**
+
+> _The datasets used in this project are entirely synthetic and do not represent any real customer or company data._
+
+> _They were designed solely to showcase data engineering architecture, transformation logic, and pipeline orchestration techniques in a realistic context._
