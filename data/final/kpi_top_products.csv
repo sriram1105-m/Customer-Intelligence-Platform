@@ -1,0 +1,11 @@
+product_id,total_sales,product_name,category,brand,cost_price,selling_price
+P0083,156613.6,Rate,Grocery,Shaw Inc,171.37,423.28
+P0397,147094.88,Enjoy,Home,"Allen, Baker and Weaver",186.86,448.46
+P0348,142252.6,Yard,Sports,"Ingram, Harris and Sanchez",197.74,472.6
+P0142,139183.19999999998,Gun,Sports,"Hines, Norris and Thompson",177.35,386.62
+P0491,137929.02000000002,Real,Sports,Hendrix-Ruiz,164.4,389.63
+P0107,137200.88,Town,Home,Patel-Arnold,189.6,434.18
+P0287,136616.48,Bit,Home,Cortez Inc,179.58,443.56
+P0368,135696.33000000002,Might,Grocery,Washington and Sons,190.37,456.89
+P0191,134150.84,Chance,Clothing,"Marquez, Johnson and Wallace",195.56,353.96
+P0036,132634.68,Father,Home,Herrera-Johnston,180.92,419.73
